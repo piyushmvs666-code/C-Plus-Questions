@@ -14,7 +14,7 @@ int main() {
 
     // 1. Calculate and print Sum
     result = num1 + num2;
-    cout << "Sum: " << result << endl;
+    cout << "Sum: " << result<<endl ;
 
     // 2. Calculate and print Difference
     result = num1 - num2;
